@@ -1,1 +1,1 @@
-# Kion_RecSys
+# Kion RecSys Competition
